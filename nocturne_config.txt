@@ -13,4 +13,4 @@ SQL_WHITELIST
 ## Message that gets displayed to non-whitelisted players when they try to join the server
 ## while it has an active whitelist. The \n allows the message to be displayed on a separate line,
 ## to make it more readable in the BYOND window.
-MISSING_WHITELIST_MESSAGE "\nThis server requires players to be whitelisted in order to join. Please apply on our discord: https://discord.gg/kJfp4rj2uf"
+MISSING_WHITELIST_MESSAGE "This server requires players to be whitelisted in order to join. Please apply on our discord: https://discord.gg/kJfp4rj2uf"
