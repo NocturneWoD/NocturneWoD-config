@@ -14,3 +14,9 @@ SQL_WHITELIST
 ## while it has an active whitelist. The \n allows the message to be displayed on a separate line,
 ## to make it more readable in the BYOND window.
 MISSING_WHITELIST_MESSAGE "This server requires players to be whitelisted in order to join. Please apply on our discord: https://discord.gg/kJfp4rj2uf"
+
+## Server tagline: This will appear right below the server's title.
+SERVERTAGLINE 18+ early-2000s World of Darkness roleplay. With furries.
+
+## Discord Link: This is the link to Nocturne's discord server
+DISCORD_LINK https://discord.gg/kJfp4rj2uf

@@ -27,9 +27,6 @@ $include nocturne_config.txt
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
 SERVERNAME Nocturne - [18+, Furry World of Darkness]
 
-## Server tagline: This will appear right below the server's title.
-SERVERTAGLINE 18+ furry World of Darkness roleplay. Apply on Discord.
-
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
 SERVERSQLNAME nocturne
 
@@ -150,7 +147,7 @@ ALLOW_RESPAWN 2
 RESPAWN_DELAY 0
 
 ## set a hosted by name for unix platforms
-HOSTEDBY Yournamehere
+HOSTEDBY a bunch of dipshits
 
 ## Uncomment this to stop people connecting to your server without a registered ckey. (i.e. guest-* are all blocked from connecting).
 ## You probably want this enabled for a production server.
