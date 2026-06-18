@@ -1,5 +1,18 @@
 <!-- Most valid html will work in here, but you have to use URL links for images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<hr>
+<center><h2 style="color:#B00000"><b>Nocturne</b></h2></center>
+<center><h4>18+ Furry World of Darkness RP</h4>
+</center>
+<hr>
+<blockquote><center>Check the Discord for the rules.</center>
+<center>Focus on telling a fun story, not winning.</center>
+<center>If you aren't comfortable with 18+ RP or furries, this isn't the place for you.</center></blockquote>
+<center><p><i>Remember, wherever we go, it is the blood of Caine which makes our fate.</i></p></center>
+<hr>
 
-<i>This server is running a /tg/station 13 Git build.</i>
+<center><h2 style="color:#B00000">FUCKING HELP ME</h2></center>
+<center><p><b>Nocturne is currently developed by a SINGLE PERSON.</b></center>
+<center>For the love of GOD, if you know ANYBODY who can help program, do administration work, or contribute in ANY way, <b>PLEASE</b> invite them here!</p></center>
+<center><p>Otherwise, this server's fucked!</p></center>
+<hr>
