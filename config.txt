@@ -567,7 +567,7 @@ MOTD motd.txt
 ## The cache is assumed to be cleared by TGS recompiling, which deletes `cache/`.
 ## This should be disabled (through `CACHE_ASSETS 0`) on development,
 ## but enabled on production (the default).
-CACHE_ASSETS 0
+#CACHE_ASSETS 0
 
 ## Enables 'smart' asset caching, for assets that support it.
 ## This is a type of asset cache that automatically invalidates itself based on inputs to the asset generation.
@@ -653,7 +653,7 @@ TGUI_MAX_CHUNK_COUNT 32
 
 ## While this is uncommented, server initialization will include some asset generation usually useful for development.
 ## It increases initialization time significantly so you'll want to disable this in live environments.
-GENERATE_ASSETS_IN_INIT
+#GENERATE_ASSETS_IN_INIT
 
 ## Path from the config folder to the policy json
 POLICY_JSON_PATH policy.json
