@@ -31,10 +31,10 @@ SERVERNAME Nocturne - [18+, Furry World of Darkness]
 SERVERSQLNAME nocturne
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME San Francisco
+STATIONNAME Palm Desert
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
-#HUB
+HUB
 
 ## Lobby time: This is the amount of time between rounds that players have to setup their characters and be ready.
 LOBBY_COUNTDOWN 300
