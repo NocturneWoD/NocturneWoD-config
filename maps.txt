@@ -56,11 +56,9 @@ endmap
 endmap
 
 map westfieldmall
-    votable
-    default
 endmap
 
-#map palmdesert
+map palmdesert
     votable
     default
 endmap
