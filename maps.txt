@@ -55,7 +55,8 @@ endmap
 	minplayers 40
 endmap
 
-map westfieldmall
+#map westfieldmall
+    votable
 endmap
 
 map palmdesert
